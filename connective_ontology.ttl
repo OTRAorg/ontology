@@ -702,14 +702,14 @@ otradata:The_Holy_Quran rdf:type owl:NamedIndividual ,
                                                           rdfs:comment "Psalm 118, verses 84-86"@en .
 
 
-###  https://otraorg.github.io/data#Riccoldo_da_Monte_di_Croce's_Contra_Legem_Sarracenorum
-<https://otraorg.github.io/data#Riccoldo_da_Monte_di_Croce's_Contra_Legem_Sarracenorum> rdf:type owl:NamedIndividual ,
+###  https://otraorg.github.io/data#Riccoldo_da_Monte_di_Croces_Contra_Legem_Sarracenorum
+<https://otraorg.github.io/data#Riccoldo_da_Monte_di_Croces_Contra_Legem_Sarracenorum> rdf:type owl:NamedIndividual ,
                                                                                                    lrmoo:F1_Work ;
                                                                                           rdfs:comment "Work by the Florentine Dominican Riccoldo da Monte di Croce, called 'Contra legem Sarracenorum'. The work played a major influence in the Western perception of Islam and was translated in various languages."@en .
 
 
-###  https://otraorg.github.io/data#Riccoldo_da_Monte_di_Croce's_CLS_in_the_latest_redaction_(Firenze,_Biblioteca_Nazionale,_8.1173)
-<https://otraorg.github.io/data#Riccoldo_da_Monte_di_Croce's_CLS_in_the_latest_redaction_(Firenze,_Biblioteca_Nazionale,_8.1173)> rdf:type owl:NamedIndividual ,
+###  https://otraorg.github.io/data#Riccoldo_da_Monte_di_Croces_CLS_in_the_latest_redaction_(Firenze,_Biblioteca_Nazionale,_8.1173)
+<https://otraorg.github.io/data#Riccoldo_da_Monte_di_Croces_CLS_in_the_latest_redaction_(Firenze,_Biblioteca_Nazionale,_8.1173)> rdf:type owl:NamedIndividual ,
                                                                                                                                              lrmoo:F2_Expression ;
                                                                                                                                     rdfs:comment "This expression of the work \"Contra Legem Sarracenorum\" was revised personally by Riccoldo da Monte di Croce and is found in the manuscript Florence, Biblioteca Nazionale under the shelf number 8.1173."@en .
 
